@@ -1,1 +1,1 @@
-
+sudo wget -N -P /var/lib/marzban/templates/subscription/ https://github.com/MatinDehghanian/LightWaySub/releases/latest/download/index.html
